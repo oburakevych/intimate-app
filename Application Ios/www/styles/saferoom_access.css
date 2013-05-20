@@ -1,0 +1,25 @@
+#form_saferoom_go{
+	margin-bottom:0px;
+}
+#add_safeRoom{
+    width:65px;
+    height:65px;
+    background-image:url('../img/add@2x.png');
+    background-size:65px 65px;
+    background-color:transparent;
+    box-shadow:none;
+}
+#enter_safeRoom{
+    width:65px;
+    height:65px;
+    background-image:url('../img/go@2x.png');
+    background-size:65px 65px;
+    background-color:transparent;
+    box-shadow:none;
+}
+#enter_safeRoom:active{
+    background-image:url('../img/go_hover@2x.png');
+}
+#add_safeRoom:active{
+    background-image:url('../img/add_hover@2x.png');
+}
